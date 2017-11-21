@@ -1,5 +1,9 @@
 # ajs-4.1-revealing-module-pattern
-Advanced JavaScript | Workshop 4 Task 1
+**Advanced JavaScript | Workshop 4 Task 1**
+
+Solution to the following task:
+
+### Task
 
 In workshop4.js, using the module pattern, or the revealing module pattern, build a simple calculator module with the following methods:
 - [x] A method that will add two arguments that are passed to it and return the result. • A method that will multiply two arguments passed to it and return the result.
